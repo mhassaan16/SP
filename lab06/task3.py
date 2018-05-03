@@ -1,0 +1,5 @@
+input = raw_input("Enter Sequence of Numbers: ")
+list = input.split(',')
+print(list)
+tple = tuple(list)
+print(tple)
